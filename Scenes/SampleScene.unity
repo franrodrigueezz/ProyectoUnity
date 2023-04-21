@@ -383,7 +383,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &41368625
 RectTransform:
   m_ObjectHideFlags: 0
@@ -535,7 +535,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &101734719
 RectTransform:
   m_ObjectHideFlags: 0
@@ -733,7 +733,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &151838293
 RectTransform:
   m_ObjectHideFlags: 0
@@ -825,7 +825,7 @@ RectTransform:
   m_Children:
   - {fileID: 1712783940}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 19
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -881,8 +881,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 172130280}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 172130277}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1161,7 +1161,7 @@ RectTransform:
   m_Children:
   - {fileID: 669454920}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1217,8 +1217,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 342682442}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 342682439}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1359,7 +1359,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &438526277
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1451,7 +1451,7 @@ RectTransform:
   m_Children:
   - {fileID: 41368625}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 26
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1507,8 +1507,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 448231652}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 448231649}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1569,7 +1569,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &503899822
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1745,7 +1745,7 @@ RectTransform:
   m_Children:
   - {fileID: 1305197238}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1801,8 +1801,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 534089148}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 534089145}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1879,7 +1879,7 @@ RectTransform:
   m_Children:
   - {fileID: 1259294463}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1935,8 +1935,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 556210551}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 556210548}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -2106,6 +2106,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b7a9b840f8a3be747b21a66d4a9177ec, type: 3}
   - {fileID: 21300000, guid: b47a306588c482146a45008462ceb8a2, type: 3}
   Manager: {fileID: 595413185}
+  contador: 0
+  Cartaseleccionada: []
 --- !u!224 &595413188
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2143,7 +2145,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &600378552
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2235,7 +2237,7 @@ RectTransform:
   m_Children:
   - {fileID: 1027221331}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 17
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2291,8 +2293,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 614386250}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 614386247}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -2369,7 +2371,7 @@ RectTransform:
   m_Children:
   - {fileID: 600378552}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 25
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2425,8 +2427,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 623237256}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 623237253}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -2583,7 +2585,7 @@ RectTransform:
   m_Children:
   - {fileID: 1484584330}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2639,8 +2641,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 657074030}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 657074027}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -2777,7 +2779,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &669454920
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2853,7 +2855,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &690310421
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3021,7 +3023,7 @@ RectTransform:
   m_Children:
   - {fileID: 1442521114}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 21
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3077,8 +3079,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 762849327}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 762849324}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -3139,7 +3141,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &781998084
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3295,7 +3297,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &790338430
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3808,7 +3810,7 @@ RectTransform:
   m_Children:
   - {fileID: 781998084}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3864,8 +3866,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 938022944}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 938022941}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -3926,7 +3928,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &943750372
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4082,7 +4084,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1027221331
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4174,7 +4176,7 @@ RectTransform:
   m_Children:
   - {fileID: 503899822}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 24
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -4230,8 +4232,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1071244800}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 1071244797}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -4369,18 +4371,18 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1177234979}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 790338430}
-  m_Father: {fileID: 1837409562}
-  m_RootOrder: 9
+  m_Father: {fileID: 1932268948}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 74, y: 292}
+  m_AnchoredPosition: {x: 141, y: -0.000030517578}
   m_SizeDelta: {x: 97.02, y: 137.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1177234981
@@ -4432,8 +4434,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1177234982}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 1177234979}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -4494,7 +4496,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1199791844
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4586,7 +4588,7 @@ RectTransform:
   m_Children:
   - {fileID: 943750372}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -4642,8 +4644,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1258659458}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 1258659455}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -4704,7 +4706,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1259294463
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4780,7 +4782,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1305197238
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5012,7 +5014,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1411312134
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5210,7 +5212,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1442521114
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5286,7 +5288,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1484584330
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5458,7 +5460,7 @@ RectTransform:
   m_Children:
   - {fileID: 438526277}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5514,8 +5516,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1490917595}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 1490917592}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -5592,7 +5594,7 @@ RectTransform:
   m_Children:
   - {fileID: 1411312134}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 23
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5648,8 +5650,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1601495542}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 1601495539}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -5873,7 +5875,7 @@ RectTransform:
   m_Children:
   - {fileID: 151838293}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 18
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5929,8 +5931,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1675699322}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 1675699319}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -6113,7 +6115,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1712783940
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6299,8 +6301,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1716036909}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 1716036907}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -6339,7 +6341,7 @@ RectTransform:
   m_Children:
   - {fileID: 690310421}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 20
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -6395,8 +6397,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1784679681}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 1784679678}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -6559,7 +6561,6 @@ RectTransform:
   - {fileID: 1360946314}
   - {fileID: 1716036908}
   - {fileID: 1932268948}
-  - {fileID: 1177234980}
   - {fileID: 1490917593}
   - {fileID: 1258659456}
   - {fileID: 657074028}
@@ -6921,7 +6922,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1886767751
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7012,6 +7013,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1199791844}
+  - {fileID: 1177234980}
   m_Father: {fileID: 1837409562}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -7069,8 +7071,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1932268950}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 1932268947}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -7147,7 +7149,7 @@ RectTransform:
   m_Children:
   - {fileID: 101734719}
   m_Father: {fileID: 1837409562}
-  m_RootOrder: 22
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -7203,8 +7205,8 @@ MonoBehaviour:
         m_MethodName: Elegircarta
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1989583375}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+          m_ObjectArgument: {fileID: 1989583372}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
