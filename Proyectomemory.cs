@@ -9,10 +9,24 @@ public class Proyectomemory : MonoBehaviour
     public GameObject Manager;
     public int contador;
     public List<GameObject> Cartaseleccionada;
+    public GameObject panelInicio;
+    public GameObject panelJuego;
+    public string nombreJugador1;
+    public string nombreJugador2;
+    public InputField inputNombreJugador1;
+    public InputField inputNombreJugador2;
+    public Text textoNombreJugador1;
+    public Text textoNombreJugador2;
+    
+
 
     void Start()
     {
-
+        panelInicio.SetActive(true);
+        panelJuego.SetActive(false);
+        textoNombreJugador1.text = "Nombre Jugador 1: " + nombreJugador1;
+        textoNombreJugador2.text = "Nombre Jugador 2: " + nombreJugador2;
+       
     }
 
     void Update()
@@ -44,8 +58,23 @@ public class Proyectomemory : MonoBehaviour
                 contador = 0;
                 Cartaseleccionada.Clear();
             }
+            
         }
     }
+    public void IniciarPartida()
+    {
+        panelInicio.SetActive(false);
+        panelJuego.SetActive(true);
+    }
+
+    public void ObtenerNombresJugadores()
+    {
+        nombreJugador1 = inputNombreJugador1.text;
+        nombreJugador2 = inputNombreJugador2.text;
+        panelInicio.SetActive(false);
+        panelJuego.SetActive(true);
+    }
+    
 
 
 }
