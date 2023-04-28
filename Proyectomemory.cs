@@ -11,6 +11,7 @@ public class Proyectomemory : MonoBehaviour
     public List<GameObject> Cartaseleccionada;
     public GameObject panelInicio;
     public GameObject panelJuego;
+    public GameObject panelVictoria;
     public string nombreJugador1;
     public string nombreJugador2;
     public InputField inputNombreJugador1;
@@ -74,7 +75,17 @@ public class Proyectomemory : MonoBehaviour
         panelInicio.SetActive(false);
         panelJuego.SetActive(true);
     }
-    
 
+    public void BotonSalir()
+    {
+        Application.Quit();
+    }
+
+    public void BotonVolverAlMenu()
+    {
+        panelJuego.SetActive(false);
+        panelVictoria.SetActive(false);
+        panelInicio.SetActive(true);
+    }
 
 }
